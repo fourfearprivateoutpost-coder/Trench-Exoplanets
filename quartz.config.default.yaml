@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: fourfearprivateoutpost-coder.github.io/Trench-Exoplanets
   ignorePatterns:
     - private
     - templates
